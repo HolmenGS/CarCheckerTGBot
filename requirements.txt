@@ -2,4 +2,4 @@ requests
 telebot
 bs4
 unicodedata
-fake_useragent
+fake-useragent
